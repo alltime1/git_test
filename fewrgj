@@ -1,0 +1,31 @@
+[33mcommit f34f1339bc581b8155179be1d4eb8c611b23f674[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5c001b8 ee3ce4e
+Author: alltime1 <2956489346@qq.com>
+Date:   Wed Sep 2 09:39:49 2020 +0800
+
+    'last'
+
+[33mcommit 5c001b85b6ece37b774095d025f79a33cf1ac8b8[m
+Author: alltime1 <2956489346@qq.com>
+Date:   Wed Sep 2 09:36:50 2020 +0800
+
+    last2
+
+[33mcommit ee3ce4ee6465ebf77f66fc1d3b106f1a59d81122[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: da22248 ad70e1c
+Author: alltime1 <2956489346@qq.com>
+Date:   Wed Sep 2 09:33:37 2020 +0800
+
+    Merge branch 'master' of https://github.com/alltime1/git_test
+
+[33mcommit da22248295683fe0d2f4cd7adfddd8a5d9b2047e[m
+Author: alltime1 <2956489346@qq.com>
+Date:   Wed Sep 2 09:05:58 2020 +0800
+
+    'two'
+
+[33mcommit ad70e1c74586feb97bc1ca39b51af8411fd7daa8[m
+Author: alltime1 <2956489346@qq.com>
+Date:   Wed Sep 2 09:03:30 2020 +0800
+
+    'one'
